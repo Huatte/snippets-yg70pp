@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Huatte.github.io/snippets-yg70pp/sitemap.xml
